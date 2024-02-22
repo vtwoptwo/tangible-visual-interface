@@ -1,1 +1,1 @@
-# Tangible Visual Interface with Tiago
+# Tangible Visual Interface with Real Objects Thesis (WIP)
